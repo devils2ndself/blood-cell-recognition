@@ -11,6 +11,7 @@ Backend consists of API and model-training script.
 Run the following to install all needed packages:
 
 ```
+cd backend
 pip install -r requirements.txt
 ```
 
