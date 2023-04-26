@@ -15,6 +15,15 @@ cd backend
 pip install -r requirements.txt
 ```
 
+### Running the API server
+
+Run the following to run the development server on `localhost:8000`:
+
+```
+cd backend
+uvicorn api:app --reload
+```
+
 ### Getting the Dataset
 
 Run the following to get the dataset as .zip file:

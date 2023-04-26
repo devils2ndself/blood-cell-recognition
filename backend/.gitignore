@@ -1,2 +1,7 @@
+# FastAPI cache
+__pycache__/
+
+# The image dataset
 dataset/
-model.pickle
+
+# Saved model
